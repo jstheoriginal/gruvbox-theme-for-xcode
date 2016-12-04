@@ -13,7 +13,7 @@ An Xcode theme that colour-matches the wonderful gruvbox theme for vim! [The gru
 1. Open Xcode and go to Xcode > `Preferences...`
 1. Under `Fonts & Colors`, choose `WWDC 2016`.
 
-_**Note:** The font used in the screenshot is DejaVu Sans Mono, if you want to find it and use it. Otherwise, the theme is set to use SF Mono._
+_**Note:** The theme is set to use SF Mono (San Francisco Mono). The font used in the screenshot is [DejaVu Sans Mono for Powerline](https://github.com/powerline/fonts/tree/master/DejaVuSansMono) if you want to use it._
 
 ## Screenshot
 

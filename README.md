@@ -1,6 +1,6 @@
 # Gruvbox Theme for Xcode!
 
-An Xcode theme that colour-matches the wonderful gruvbox theme for vim! ![The gruvbox vim repo](https://github.com/morhetz/gruvbox) describes its theme as: 
+An Xcode theme that colour-matches the wonderful gruvbox theme for vim! [The gruvbox vim repo](https://github.com/morhetz/gruvbox) describes its theme as: 
 
 > Designed as a bright theme with pastel 'retro groove' colors and light/dark mode switching in the way of solarized. The main focus when developing gruvbox is to keep colors easily distinguishable, contrast enough and still pleasant for the eyes.
 

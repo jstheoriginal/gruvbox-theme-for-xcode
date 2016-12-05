@@ -5,7 +5,7 @@ An Xcode theme that colour-matches the wonderful gruvbox theme for vim! [The gru
 > Designed as a bright theme with pastel 'retro groove' colors and light/dark mode switching in the way of solarized. The main focus when developing gruvbox is to keep colors easily distinguishable, contrast enough and still pleasant for the eyes.
 
 ## Installation
-1. Download the .zip file from this repo.
+1. Download the [.zip file](https://github.com/jstheoriginal/gruvbox-theme-for-xcode/archive/master.zip) from this repo.
 1. Close Xcode.
 1. Open Finder then from the menu bar choose `Go` -> `Go to folder...`.
 1. Paste `~/Library/Developer/Xcode/UserData/FontAndColorThemes/` into the pop-up to open your Xcode themes folder.

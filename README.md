@@ -9,7 +9,7 @@ An Xcode theme that colour-matches the wonderful gruvbox theme for vim! [The gru
 1. Close Xcode.
 1. Open Finder then from the menu bar choose `Go` -> `Go to folder...`.
 1. Paste `~/Library/Developer/Xcode/UserData/FontAndColorThemes/` into the pop-up to open your Xcode themes folder. If this folder does not yet exist, you will need to create it first.
-1. Copy the unzipped `gruvbox.dvtcolortheme` file into the folder.
+1. Copy the unzipped `Gruvbox.dvtcolortheme` file into the folder.
 1. Open Xcode and go to Xcode > `Preferences...`
 1. Under `Fonts & Colors`, choose `Gruvbox` from the list and apply it.
 1. Enjoy!
